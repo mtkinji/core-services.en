@@ -19,7 +19,6 @@ Analytics uses cookies to anonymously define new visitors, help analyze clickstr
 * [Cookie Name: s_ecid](cookies-mc.md#section-32fd753c3fa54452acd62b021434919a) 
 * [Cookie Name: AMCV_###@AdobeOrg](cookies-mc.md#section-a12aa2a9296940ae82d8921b381b8fb0) 
 * [Cookie Name: s_cc](cookies-analytics.md#section-03aa90aa7e36427b8cb12dc4a0f0291e) 
-* [Cookie Name: s_cc](cookies-analytics.md#section-03aa90aa7e36427b8cb12dc4a0f0291e) 
 * [Cookie Name: s_sq](cookies-analytics.md#section-8abfff3a302d494f81a3cfb91e3b09ff) 
 * [Cookie Name: s_vi](cookies-analytics.md#section-5d50a078de444d12b7d927d68ff3b679) 
 * [Cookie Name: s_fid](cookies-analytics.md#section-65e33f9bfc264959ac1513e2f4b10ac7) 
